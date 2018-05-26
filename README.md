@@ -1,2 +1,3 @@
 # hello_world
-test prvi
+test drugi
+Izmene readme.md fajla, pravljenje druge grane (branch).
